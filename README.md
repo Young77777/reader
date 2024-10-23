@@ -1,7 +1,7 @@
 # tReader
 
-https://tiansh.github.io/reader
-
+[reader阅读器
+](https://reader.pigs.us.kg/src/#!/)
 又一个 TXT 文本阅读器。
 
 自用为主。
